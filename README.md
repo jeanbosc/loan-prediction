@@ -12,3 +12,6 @@ pip freeze > requiremenst.txt
 
 # Load dependencies from txt file
 pip install -r requirements.txt
+
+## Dataset
+https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/data
